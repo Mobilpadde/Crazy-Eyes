@@ -1,0 +1,32 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mobilpadde@gmail.com",
+    "longName": "Crazy Eyes",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pc_small.png",
+                "menuIcon": true,
+                "name": "IMAGE_LOGO",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Crazy Eyes",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "06818ce3-399d-4a44-8f47-3661be58729a",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
